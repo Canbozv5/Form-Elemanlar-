@@ -24,6 +24,7 @@ type="radio"
 type="password"
 ```
 ---------------------------------------------------------- 
-<br>
+
+## Kayıt Formu Önizlemesi 
 
 ![Kişisel Kayıt Formu](./img/kayıt-formu.png)
